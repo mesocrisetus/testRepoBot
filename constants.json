@@ -1,0 +1,29 @@
+{
+  "idGrupo": 33481016,
+  "channelsId": {
+    "promos": "1293414578759139349",
+    "logsPromos": "1293414578759139349",
+    "logsDegrados": "1293414578759139349"
+  },
+  "rolesId": {
+    "admin": "1293414062440579143",
+    "mod": "1293414062440579143",
+    "membre": "1202825104443056160"
+  },
+  "rangos": {
+    "Policía": 239,
+    "Sargento": 240,
+    "Sargento Jefe": 241,
+    "Sub Oficial": 242,
+    "Oficial": 243,
+    "Sub Inspector": 244,
+    "Inspector": 245,
+    "Inspector Jefe":246 ,
+    "Inspector General": 247,
+    "Supervisor": 248,
+    "Oficial Comisionado": 249,
+    "Jefe de Policía": 250,
+    "Vice Comandante": 251,
+    "Comandante en Jefe": 252
+  }
+}
